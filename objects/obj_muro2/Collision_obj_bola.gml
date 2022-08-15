@@ -2,7 +2,6 @@
 // Você pode escrever seu código neste editor
 
 
-if(mouse_y > 64 && mouse_y < 448)
-{	
-	y = mouse_y;
-}
+show_message("O jogador venceu!");
+
+game_restart();

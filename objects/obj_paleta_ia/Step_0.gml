@@ -2,7 +2,6 @@
 // Você pode escrever seu código neste editor
 
 
-if(mouse_y > 64 && mouse_y < 448)
-{	
-	y = mouse_y;
-}
+y = lerp(obj_paleta_ia.y, obj_bola.y, 0.1);
+
+

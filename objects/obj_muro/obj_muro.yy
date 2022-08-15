@@ -3,7 +3,7 @@
     "name": "sprt_muro",
     "path": "sprites/sprt_muro/sprt_muro.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
